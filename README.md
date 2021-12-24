@@ -1,7 +1,7 @@
 # nodejs-filesystem
 #heroku URL
-https://nodejs--file-system.herokuapp.com\
-#for create file
-/createfile
+https://nodejs--file-system.herokuapp.com
+# to create file
+use path "/createfile"
 # read file
-/readfile
+use path "/readfile"
