@@ -3,5 +3,5 @@
 https://nodejs--file-system.herokuapp.com
 # to create file
 use path "/createfile"
-# read file
+# to read file
 use path "/readfile"
